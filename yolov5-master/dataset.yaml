@@ -1,0 +1,5 @@
+train: C:\Users\Errich\Documents\YOLOv5\car-smoke-detection-dataset\train
+val: C:\Users\Errich\Documents\YOLOv5\car-smoke-detection-dataset\valid
+
+nc: 2
+names: ['non-smoke-belching', 'smoke-belching']
